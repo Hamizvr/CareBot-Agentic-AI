@@ -45,20 +45,33 @@ CareBot is an AI-powered health assistant that helps users describe their sympto
 ## 🖼️ Screenshots
 
 This is the user interface of the CareBot health assistant. It welcomes users, shows example symptom questions, and lets them enter their symptoms in natural language for helpful guidance.
+
 <img width="1024" height="847" alt="image" src="https://github.com/user-attachments/assets/d65260ff-acf1-43fd-89c2-790f96546644" />
 
 
 This shows how CareBot responds to a user’s symptom query. The agent identifies possible causes, gives self-care tips, and advises when to see a doctor — all in a friendly, non-diagnostic, and easy-to-understand tone.
+
 <img width="1016" height="805" alt="image" src="https://github.com/user-attachments/assets/6c2e27fd-3d60-4630-9c36-de1e0fea9fd8" />
 
 
 The agent provides a list of safe home remedies for a headache, including rest, hydration, and stress relief. It also includes a safety disclaimer advising the user to see a doctor if symptoms are severe or unusual.
+
 <img width="1013" height="832" alt="image" src="https://github.com/user-attachments/assets/fdf2c260-9b1c-4040-b5da-072c436f967d" />
 
 
 Deployed AI Agent (Preview)
+
 <img width="1378" height="611" alt="image" src="https://github.com/user-attachments/assets/000f703c-277d-4761-9ea4-90c590f4c89e" />
 
 
+📄 Project Presentation
+The final presentation is included in CareBot Agentic AI project.pptx.
 
+🪪 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
+👤 Author
+Mohammed Hamiz VR
+B.Tech CSE Cybersecurity – Presidency University
+
+---
