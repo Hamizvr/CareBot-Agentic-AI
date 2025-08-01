@@ -64,17 +64,18 @@ Deployed AI Agent (Preview)
 <img width="1378" height="611" alt="image" src="https://github.com/user-attachments/assets/000f703c-277d-4761-9ea4-90c590f4c89e" />
 
 
-📄 Project Presentation
+## 📄 Project Presentation
 
 The final presentation is included in CareBot Agentic AI project.pptx.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👤 Author
+## 👤 Author
 
 Mohammed Hamiz VR
+
 B.Tech CSE Cybersecurity – Presidency University
 
 ---
